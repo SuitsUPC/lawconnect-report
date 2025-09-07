@@ -215,7 +215,7 @@ Criterio: La capacidad de adquirir y aplicar nuevos conocimientos según sea nec
       <td rowspan="6"><b>Johan Jorge Quiñones Tintaya</b></td>
       <td>TB1</td>
       <td>...</td>
-      <td rowspan="20" style="vertical-align: top;">...</td>
+      <td rowspan="30" style="vertical-align: top;">...</td>
     </tr>
     <tr>
       <td>TB2</td>
@@ -349,7 +349,7 @@ Criterio: La capacidad de adquirir y aplicar nuevos conocimientos según sea nec
       <td rowspan="6"><b>Johan Jorge Quiñones Tintaya</b></td>
       <td>TB1</td>
       <td>...</td>
-      <td rowspan="20" style="vertical-align: top;">...</td>
+      <td rowspan="30" style="vertical-align: top;">...</td>
     </tr>
     <tr>
       <td>TB2</td>
