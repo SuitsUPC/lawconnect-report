@@ -23,10 +23,10 @@
 | Member                             | Code       |
 |------------------------------------|------------|
 | Johan Jorge Quiñones Tintaya       | U202113656 |
-| Stephano Renan Valdivia Quispe     |  |
-| Diego Rodrigo Pumahualcca Garcia   |  |
-|        |  |
-|        |  |
+| Stephano Renan Valdivia Quispe     | U202311294 |
+| Diego Rodrigo Pumahualcca Garcia   | U202219266 |
+| Niurka Lucero Huarcaya Quispe      | U20221b226 |
+| Nelson Fabrizzio Pereira Vasquez   | U202417468 |
 
 <br> Julio 2025
 </center>  
@@ -211,7 +211,7 @@ Criterio: La capacidad de adquirir y aplicar nuevos conocimientos según sea nec
     <!-- Criterio 1 -->
     <tr>
       <td rowspan="30"><b>Actualiza conceptos y conocimientos necesarios para su desarrollo profesional y en especial para su proyecto en soluciones de software.</b></td>
-      <!-- Johan -->
+      <!-- Johan Jorge -->
       <td rowspan="6"><b>Johan Jorge Quiñones Tintaya</b></td>
       <td>TB1</td>
       <td>...</td>
@@ -237,7 +237,7 @@ Criterio: La capacidad de adquirir y aplicar nuevos conocimientos según sea nec
       <td>TF</td>
       <td>...</td>
     </tr>
-    <!-- Stephano -->
+    <!-- Stephano Renan -->
     <tr>
       <td rowspan="6"><b>Stephano Renan Valdivia Quispe</b></td>
       <td>TB1</td>
@@ -263,7 +263,7 @@ Criterio: La capacidad de adquirir y aplicar nuevos conocimientos según sea nec
       <td>TF</td>
       <td>...</td>
     </tr>
-    <!-- Diego -->
+    <!-- Diego Rodrigo -->
     <tr>
       <td rowspan="6"><b>Diego Rodrigo Pumahualcca Garcia</b></td>
       <td>TB1</td>
@@ -289,9 +289,9 @@ Criterio: La capacidad de adquirir y aplicar nuevos conocimientos según sea nec
       <td>TF</td>
       <td>...</td>
     </tr>
-    <!-- 4 -->
+    <!-- Niurka Lucero -->
     <tr>
-      <td rowspan="6"><b>Integrante 4</b></td>
+      <td rowspan="6"><b>Niurka Lucero Huarcaya Quispe</b></td>
       <td>TB1</td>
       <td>...</td>
     </tr>
@@ -315,9 +315,9 @@ Criterio: La capacidad de adquirir y aplicar nuevos conocimientos según sea nec
       <td>TF</td>
       <td>...</td>
     </tr>
-    <!-- 5 -->
+    <!-- Nelson Fabrizzio -->
     <tr>
-      <td rowspan="6"><b>Integrante 5</b></td>
+      <td rowspan="6"><b>Nelson Fabrizzio Pereira Vasquez</b></td>
       <td>TB1</td>
       <td>...</td>
     </tr>
@@ -345,7 +345,7 @@ Criterio: La capacidad de adquirir y aplicar nuevos conocimientos según sea nec
     <!-- Criterio 2 -->
     <tr>
       <td rowspan="30"><b>Reconoce la necesidad del aprendizaje permanente para el desempeño profesional y el desarrollo de proyectos en soluciones de software.</b></td>
-      <!-- Johan -->
+      <!-- Johan Jorge -->
       <td rowspan="6"><b>Johan Jorge Quiñones Tintaya</b></td>
       <td>TB1</td>
       <td>...</td>
@@ -371,7 +371,7 @@ Criterio: La capacidad de adquirir y aplicar nuevos conocimientos según sea nec
       <td>TF</td>
       <td>...</td>
     </tr>
-    <!-- Stephano -->
+    <!-- Stephano Renan -->
     <tr>
       <td rowspan="6"><b>Stephano Renan Valdivia Quispe</b></td>
       <td>TB1</td>
@@ -397,7 +397,7 @@ Criterio: La capacidad de adquirir y aplicar nuevos conocimientos según sea nec
       <td>TF</td>
       <td>...</td>
     </tr>
-    <!-- Diego -->
+    <!-- Diego Rodrigo -->
     <tr>
       <td rowspan="6"><b>Diego Rodrigo Pumahualcca Garcia</b></td>
       <td>TB1</td>
@@ -423,9 +423,9 @@ Criterio: La capacidad de adquirir y aplicar nuevos conocimientos según sea nec
       <td>TF</td>
       <td>...</td>
     </tr>
-    <!-- 4 -->
+    <!-- Niurka Lucero -->
     <tr>
-      <td rowspan="6"><b>Integrante 4</b></td>
+      <td rowspan="6"><b>Niurka Lucero Huarcaya Quispe</b></td>
       <td>TB1</td>
       <td>...</td>
     </tr>
@@ -449,9 +449,9 @@ Criterio: La capacidad de adquirir y aplicar nuevos conocimientos según sea nec
       <td>TF</td>
       <td>...</td>
     </tr>
-    <!-- 5 -->
+    <!-- Nelson Fabrizzio -->
     <tr>
-      <td rowspan="6"><b>Integrante 5</b></td>
+      <td rowspan="6"><b>Nelson Fabrizzio Pereira Vasquez</b></td>
       <td>TB1</td>
       <td>...</td>
     </tr>
