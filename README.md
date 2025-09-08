@@ -22,11 +22,11 @@
 
 | Member                             | Code       |
 |------------------------------------|------------|
-| Johan Jorge Quiñones Tintaya       | U202113656 |
-| Stephano Renan Valdivia Quispe     | U202311294 |
-| Diego Rodrigo Pumahualcca Garcia   | U202219266 |
-| Niurka Lucero Huarcaya Quispe      | U20221b226 |
-| Nelson Fabrizzio Pereira Vasquez   | U202417468 |
+| Huarcaya Quispe Niurka Lucero      | U20221b226 |
+| Pereira Vasquez Nelson Fabrizzio   | U202417468 |
+| Pumahualcca Garcia Diego Rodrigo   | U202219266 |
+| Quiñones Tintaya Johan Jorge       | U202218183 |
+| Valdivia Quispe Stephano Renan     | U202311294 |
 
 <br> Julio 2025
 </center>  
@@ -486,13 +486,155 @@ Criterio: La capacidad de adquirir y aplicar nuevos conocimientos según sea nec
 </table>
 
 # Capítulo I: Introducción
+<p align="justify">
+En este capítulo se presentará con la startup y la previa planeación e investigación para el proyecto. Empezaremos con la explicación de nuestra startup y el equipo que la conforma, luego realizaremos un análisis sobre el problema escogido, junto con los antecedentes de este mismo. Además, utilizaremos el proceso Lean UX para planear la solución y determinar el mercado objetivo.
+</p>
+
 ## 1.1. Startup Profile
+En esta sección se detallará las características de nuestra startup, esto incluye la definición de nuestras metas como equipo, misión, visión y el perfil de los integrantes que componen el equipo.
+
 ### 1.1.1. Descripción de la Startup
+<p align="justify">
+DartlinWave es una startup compuesta por un grupo de estudiantes de la carrera de Ingeniería de Software de la Universidad Peruana de Ciencias Aplicadas (UPC). Estamos enfocados en la creación de herramientas tecnológicas para mejorar y actualizar el rubro de abogacía. De esta forma, con las aplicaciones que desarrollemos, buscamos optimizar los procedimientos legales que los clientes tienen actualmente. Además, también tenemos en cuenta a los abogados para generar más oportunidades laborales, ya que no se excluirán a los profesionales dependiendo de su edad o experiencia laboral. Es así que llegamos a la realización de nuestro primer proyecto, se desarrollará la aplicación móvil LawConnect. Con esta aplicación esperamos facilitar la búsqueda de abogados calificados para personas que tengan un problema legal. Asimismo, deseamos generar más oportunidades laborales para los abogados recién egresados de la universidad, lo que les permitirá empezar una carrera en el rubro, obtener más experiencia e incrementar sus ofertas de trabajo. De esta forma, perfeccionamos la comunicación entre los abogados y potenciales clientes, lo que permite a ambos segmentos lograr sus metas; así, logramos nuestra misión y nos acercamos a nuestra visión.
+</p>
+
+<p align="justify">**Misión**: Ofrecer una comunicación eficaz entre los abogados aptos y clientes, con el objetivo de mejorar los procedimientos legales y fomentar el uso de herramientas tecnológicas en el sector de abogacía. Nuestra motivación principal es aumentar las oportunidades de trabajo para los abogados y permitir que los clientes tengan la posibilidad de encontrar un profesional que se adapte a sus requisitos.
+</p>
+
+<p align="justify">**Visión**: Liderar en el rubro jurídico con DartlinWave, ya que buscamos ofrecer alternativas sostenibles, digitales, y fáciles de usar; asimismo, esperamos crear un puente entre los abogados y clientes con los distintos productos que proponemos. Así, en DartlinWave, pretendemos reinventar el sector legal al implementar herramientas tecnológicas en los posibles procedimientos legales.
+</p>
+
 ### 1.1.2. Perfiles de integrantes del equipo
 
+***Tabla 1.*** Perfiles de integrantes del equipo Suits UPC 
+
+<table>
+    <th>
+        <td>Name</td>
+        <td>Code</td>
+        <td>Description</td>
+    </th>
+    <tr>
+        <td>
+            <img src="/assets/images/chapter-I/JohanQuinones.jpeg" alt="Johan Quinones Photo" width="600px"/>
+        </td>
+        <td align="center">Quiñones Tintaya, Johan Jorge</td>
+        <td align="center">U202218183</td>
+        <td>
+            <p align="justify">
+                Mi nombre es Johan Jorge Quiñones Tintaya, tengo 19 años y soy estudiante de ingeniería de software en la UPC, cursando el septimo ciclo. He adquirido una base sólida en algoritmos y programación orientada a objetos, lo que me permite enfrentar desafíos de desarrollo con eficacia. Además, me destaco por mi capacidad para trabajar en equipo, manteniendo una comunicación clara y efectiva que facilita la colaboración. Estoy comprometido con mi crecimiento profesional y busco constantemente mejorar mis habilidades para contribuir de manera significativa en proyectos y equipos, ofreciendo soluciones innovadoras.
+            </p>     
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="" alt="Stephano Valdivia Photo" width="600px"/>
+        </td>
+        <td align="center">Stephano Renan Valdivia Quispe	</td>
+        <td align="center">U202311294</td>
+        <td>
+            <p align="justify">
+                ...
+            </p>     
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="" alt="Diego Pumahualcca Photo" width="600px"/>
+        </td>
+        <td align="center">Diego Rodrigo Pumahualcca Garcia</td>
+        <td align="center">U202219266</td>
+        <td>
+            <p align="justify">
+                ...
+            </p>     
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="" alt="Lucero Huarcaya Photo" width="600px"/>
+        </td>
+        <td align="center">Niurka Lucero Huarcaya Quispe</td>
+        <td align="center">U20221b226</td>
+        <td>
+            <p align="justify">
+                ...
+            </p>     
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="" alt="Fabrizzio Pereira Photo" width="600px"/>
+        </td>
+        <td align="center">Nelson Fabrizzio Pereira Vasquez</td>
+        <td align="center">U202417468</td>
+        <td>
+            <p align="justify">
+                ...
+            </p>     
+        </td>
+    </tr>
+</table>
+
 ## 1.2. Solution Profile
+En este apartado se explicará la problemática investigada para planificar la solución planteada por el equipo, el uso de Lean UX para crear la solución con una base sólida y concretar nuestro mercado objetivo.
+
 ### 1.2.1. Nombre del producto
+<p align="justify">El nombre de nuestro producto es LawConnect. Con este nombre reflejamos nuestra esencia, conectar de manera ágil y confiable a abogados recién egresados con personas que requieren asistencia legal. “Law” hace referencia al ámbito jurídico en el que se desenvuelve la aplicación, mientras que “Connect” enfatiza la creación de un puente digital que facilite la comunicación y el acceso. Con este nombre buscamos transmitir confianza, modernidad y accesibilidad, atributos fundamentales para generar valor tanto a los profesionales del derecho que inician su carrera como a los usuarios que necesitan resolver sus problemas legales de forma eficiente.
+</p>
+
 ### 1.2.2. Antecedentes y problemática
+<p align="justify">
+Según Vallecilla (2024), hasta febrero del año 2024, la tasa de desempleo en Perú alcanzó el 7.30%. Esta realidad no es ajena para los egresados de la carrera de derecho, los cuales se enfrentan a desafíos para encontrar un empleo estable debido a la coyuntura actual. Acorde al Tercer Informe Bienal sobre la Realidad Universitaria en el Perú de Sunedu (2022, p. 211), se explica que a los bachilleres de leyes les demora 3,6 meses en conseguir un trabajo, lo cual impide que tengan continuidad para ejercer su carrera luego de su graduación. Asimismo, todavía hay un porcentaje de estudiantes (6.4%) en Lima que les puede tomar desde 17 a 23 meses; es por ello que deseamos disminuir esa cantidad, debido a que implica un impacto en su currículum, esto complica aún más sus oportunidades laborales porque los empleadores prefieren que sus probables trabajadores sean consistentes con su carrera laboral. También, de acuerdo con el informe de la Bolsa de Trabajo de la Pontificia Universidad Católica del Perú (PUCP), El Mercado Laboral en la Carrera de Derecho PUCP (2019, p. 14), se demostró que el más del 35% de los encuestados (sobre una base de 73 entrevistados) considera que el 30% de los abogados egresados tienen problemas para obtener un empleo acorde a su especialidad; esto se aúna con los problemas mencionados con anterioridad, pues no tener experiencia laboral que corresponda a su especialidad significa que no tienen la posibilidad de ahondar en sus conocimientos adquiridos, ponerlos a prueba y reduce sus oportunidades de lograr sus metas personales. Por otro lado, también existe la dificultad para aquellas personas con problemas legales de encontrar un abogado calificado, ya que carecen de orientación sobre dónde buscar o cómo encontrarlos.
+</p>
+
+Para realizar los antecedentes y problemáticas, se realizó con anticipación la técnica 5 ‘W’s & 2 ‘H’s:
+
+**What**: El problema es el desempleo entre los egresados de la carrera de derecho y la dificultad de las personas con problemas legales al momento de buscar abogados calificados para sus casos.  
+**When**: El problema sucede desde hacer varios años atrás, según Segundo Informe Bienal sobre la Realidad Universitaria en el Perú de Sunedu (2020 p. 124), que considera un análisis del año 2012 a 2018, había una tasa de desempleo en universitarios de 8,8%, un nivel bastante alto a pesar de tener grado de bachiller.  
+**Where**: Este análisis se enfoca en Lima, en este se enfrentan distintos desafíos al momento de encontrar un empleo al ser un estudiante egresado de la carrera de leyes. Asimismo, hay un grado de dificultad para acceder a los servicios legales debido a la falta de información al momento de contactar a un abogado.  
+**Who**: Nos enfocamos en los egresados de la carrera de derecho que estén en búsqueda de empleo y en las personas que necesitan asistencia legal para sus respectivos casos.  
+**Why**: La oferta laboral para los abogados es más alta que la demanda de trabajo, es por ello que nos enfocamos explícitamente en los egresados, porque es más difícil hallar trabajo en un rubro tan sobrepoblado. Buscamos mitigar el desempleo en el rubro de leyes.  
+**How**: Desarrollaremos LawConnect para facilitar la búsqueda de abogados y aumentar la demanda laboral para los abogados. Asimismo, brindaremos la aplicación móvil a los clientes para mejorar la comunicación con abogados calificados.  
+
+**How much**:
+
+*Estadística de la problemática*
+<p align="justify">
+Según el Tercer Informe Bienal sobre la Realidad Universitaria en el Perú hecho por Sunedu (2022) para analizar el estado de los estudiantes universitarios - incluye de todo tipo de instituciones, sea privada o pública y a los de otros departamentos en el país - antes, durante y después de su formación superior académica, se pueden analizar dos gráficos estadísticos que explican la gravedad de la situación de los egresados.
+</p>
+
+<p align="justify">
+Del primer gráfico analizamos la cantidad de meses que demora a un egresado de la carrera de derecho, les toma 3,6 meses a partir de la obtención de su grado (p. 211). A pesar de que no es un número tan alto como en las situaciones de las demás carreras, aún así es un tiempo preocupante debido a que varios estudiantes tienden a pagar su propia carrera, encontrando otro tipo de trabajos. Asimismo, en la página 127 del resumen ejecutivo, se señala que la tasa de desempleo de los egresados aumentó de 6.8% a 15.5% a nivel nacional, lo cual refuerza las complicaciones que tienen para encontrar un empleo formal.
+</p>
+
+
+***Figura 1.*** Tiempo promedio hasta la consecución del primer empleo asalariado formal, según su campo de la educación. 
+
+![Figure I](assets/images/chapter-I/figure-I.png)  
+
+*Nota.* Estadística sobre el tiempo promedio que toma a un estudiante egresado lograr su primer empleo asalariado formal según su carrera. Tomado de *Tercer Informe Bienal sobre la Realidad Universitaria en el Perú* (p. 211), por Sunedu, 2022.
+
+<p align="justify">
+En el segundo gráfico se muestra el tiempo que demora a los egresados encontrar trabajo luego de su graduación acorde a su experiencia laboral. A los egresados sin experiencia previa en el rubro les toma 9,4 meses encontrar un puesto para laborar; la cantidad de meses disminuye a medida que la cantidad de tiempo trabajado en prácticas pre profesionales es mayor. Al tener en cuenta estos números, se comprueba que hay más dificultad al momento de buscar trabajo sin experiencia previa.
+</p>
+
+***Figura 2.*** Tiempo promedio hasta la consecución del primer empleo asalariado formal, segpun tiempo de experiencia laboral previa.
+
+![Figure II](assets/images/chapter-I/figure-II.png)  
+
+*Nota.* Estadística sobre el tiempo promedio que toma a un estudiante egresado lograr su primer empleo asalariado formal según su carrera acorde a su experiencia laboral durante su trayectoria laboral. Tomado de *Tercer Informe Bienal sobre la Realidad Universitaria en el Perú* (p. 211), por Sunedu, 2022.
+
+<p align="justify">
+Asimismo, del informe de El Mercado Laboral en la Carrera de Derecho PUCP (p. 13), encontramos que el 43% de los egresados de la carrera de derecho considera que el mercado laboral está saturado, según su especialidad. Esto demuestra que gran parte de la falta de experiencia laboral y dificultad para conseguir empleo luego de egresar se debe a que la cantidad de abogados es mayor a las ofertas de trabajo disponibles en el mercado.
+</p>
+
+***Figura 3.*** Gráfica parte poco grata de la especialidad escogida por egresados de derecho.
+
+![Figure III](assets/images/chapter-I/figure-III.png)  
+
+*Nota.* Estadística sobre la parte poco grata respecto a la especialidad según la perspectiva de los egresados de la carrera de derecho de la Pontificia Universidad Católica del Perú. Tomado de *El Mercado Laboral en la Carrera de Derecho PUCP* (p. 13), por Bolsa de Trabajo PUCP, 2019.
+
 ### 1.2.3. Lean UX Process
 #### 1.2.3.1. Lean UX Problem Statement
 
