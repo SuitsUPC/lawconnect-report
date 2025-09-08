@@ -602,7 +602,7 @@ LawConnect es utilizada por los clientes cuando presentan problemas legales y bu
 *Representación del Lean UX Canvas en tabla*
 
 <div style="text-align: center;">
-  <img src="https://i.imgur.com/o2wgsAD.png" width="100%" />
+  <img src="/assets/images/chapter-I/lean-ux-canvas.png" width="100%" />
 </div>
 
 ## 1.3. Segmentos objetivo
