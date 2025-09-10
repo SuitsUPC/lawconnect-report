@@ -614,7 +614,107 @@ LawConnect es utilizada por los clientes cuando presentan problemas legales y bu
 
 ## 2.2. Entrevistas
 ### 2.2.1. Diseño de entrevistas
+***Preguntas Generales***
+1. ¿Cuál es su nombre?
+2. ¿Qué edad tiene?
+3. ¿Cuál es su ocupación?
+4. ¿En que sector trabajas laboral se desempeña? (Se asume que el abogado egresado está, al momento de la entrevista, trabajando en el sector de leyes)
+5. ¿Cuánto tiempo lleva trabajando en en su sector?
+
+**SEGMENTO OBJETIVO 1:** Personas con problemas legales
+
+Con estas preguntas, esperamos entender los comportamientos, motivaciones y dificultades de personas que requieren ayuda legal para sus problemas legales.
+
+***Preguntas Específicas***
+
+1. ¿En qué situaciones ha necesitado servicios legales, últimamente?
+2. ¿Cómo describiría su experiencia general al buscar asesoría legal? ¿Qué pasos suele seguir para encontrar la ayuda que necesita?
+3. ¿A qué medios suele recurrir para informarse sobre cuestiones legales? (contacto personal, búsqueda en internet, redes sociales)
+4. ¿Qué características considera esenciales en una plataforma digital para buscar asistencia legal en línea? (disponibilidad, amigable para el usuario)
+5. ¿Qué dificultades ha encontrado al usar plataformas en línea para asuntos legales?
+6. ¿Qué canales de comunicación digital considera más cómodos para tratar con asuntos legales? (videollamada, chat, correo electrónico, llamada telefónica)
+7. ¿Qué funcionalidades adicionales le facilitarían la experiencia al usar una plataforma digital para asistencia legal?
+
+**SEGMENTO OBJETIVO 2:** Abogados egresados
+
+Con este diseño de entrevista, buscamos entender las frustraciones, necesidades y preferencias de abogados recién egresados que desean empezar su carrera laboral.
+
+***Preguntas Específicas***
+1. ¿Qué recursos ha encontrado más útiles en su búsqueda de empleo en el sector legal desde que egresó?
+2. ¿Qué desafíos ha enfrentado al buscar oportunidades laborales en el campo legal?
+3. ¿Cómo se mantiene actualizado con las tendencias en el ámbito legal y oportunidades legales?
+4. ¿Qué funcionalidades considera importantes en una plataforma que conecta a los abogados con potenciales clientes de manera rápida y eficaz?
+5. ¿Qué tipo de servicios o recursos esperaría de una plataforma le ofreciera para apoyar su carrera?
+6. ¿Qué factores toma en cuenta al evaluar una oportunidad profesional? (remuneración, experiencia, flexibilidad)
+7. ¿Qué funcionalidades adicionales podrían hacer más eficiente su trabajo diario si las tuviera integradas en una plataforma? (gestión de casos, seguimiento de los mismos)
+8. ¿Qué herramientas digitales creen que facilitarían su interacción con los clientes o su experiencia en la plataforma? (por ejemplo, sistema de seguimiento de casos, lista de oportunidades)
+
 ### 2.2.2. Registro de entrevistas
+
+**Segmento objetivo: Personas con problemas legales**
+
+Nombres y apellidos: Christian Andre, Matos Fernandez
+
+Edad: 24
+
+Inicio: 0:00
+
+Fin: 
+
+Duración: 
+
+Link: 
+
+<img src="https://i.ibb.co/Vp0pqqyT/entr1.png" alt="entrevista1" border="0">
+
+Resumen:
+
+- A partir de la entrevista realizada, se identifican varios aspectos clave sobre el comportamiento y las necesidades de personas con problemas legales. El entrevistado suele buscar asesoría legal cuando enfrenta conflictos relacionados con contratos o deudas, y su experiencia general al buscar ayuda ha sido complicada, marcada por la falta de confianza, desconocimiento y miedo a los altos costos. El primer paso que da es consultar con personas cercanas, y si no obtiene respuestas, recurre a internet o redes sociales, aunque se siente inseguro respecto a la información que encuentra. Valora mucho que una plataforma digital sea clara, sencilla y le permita comunicarse fácilmente con abogados, siendo el chat su canal preferido, aunque también recurre a llamadas o videollamadas si el caso es complejo. Entre las principales dificultades al usar plataformas digitales, menciona el lenguaje técnico, la falta de accesibilidad en el celular y la desconfianza en el servicio. Además, señala que funcionalidades como un seguimiento de caso, notificaciones y la posibilidad de subir documentos desde el celular facilitarían mucho su experiencia. Todo esto refuerza la importancia de que LawConnect se enfoque en una interfaz amigable, comunicación efectiva, confianza y herramientas prácticas adaptadas al contexto digital de este segmento.
+
+Nombres y apellidos: Astrid Boronda
+
+Edad: 20
+
+Inicio: 
+
+Fin: 
+
+Duración: 
+
+Link: 
+
+- Resumen
+
+**Segmento objetivo: Abogados egresados**
+
+Nombre: María
+
+Inicio: 
+
+Fin: 
+
+Duración: 
+
+Link: 
+
+- La entrevistada comenta que en su búsqueda de empleo los recursos más útiles han sido LinkedIn, las bolsas de trabajo de la universidad y los grupos de egresados. Sin embargo, enfrenta desafíos importantes como la exigencia de experiencia laboral en la mayoría de ofertas y la alta competencia entre postulantes. Para mantenerse actualizada recurre a páginas de derecho en redes sociales y el apoyo de contactos universitarios. En cuanto a una plataforma que conecte abogados con clientes, considera clave que ofrezca perfiles validados, un buscador por tipo de caso y un sistema de reseñas. Además, le gustaría que incluya acceso a clientes y plantillas de documentos legales. Al evaluar una oportunidad laboral prioriza el sueldo, la posibilidad de aprendizaje y la flexibilidad. Finalmente, menciona que serían de gran ayuda funcionalidades como un gestor de casos con alertas, almacenamiento seguro de documentos, organización de clientes, y herramientas digitales para interactuar con ellos como videollamadas seguras, chat con historial y seguimiento de casos compartido.
+  
+***Segunda Entrevista:***
+
+Nombre: 
+
+Inicio: 
+
+Fin: 
+
+Duración: 
+
+Link: 
+
+
+- Resumen
+
+
 ### 2.2.3. Análisis de entrevistas
 
 ## 2.3. Needfinding
