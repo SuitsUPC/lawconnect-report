@@ -269,7 +269,13 @@ Criterio: La capacidad de adquirir y aplicar nuevos conocimientos según sea nec
     <tr>
       <td rowspan="6"><b>Diego Rodrigo Pumahualcca Garcia</b></td>
       <td>TB1</td>
-      <td>...</td>
+      <td>
+          2.3	Needfinding <br> 
+            2.3.1	User Personas<br> 
+            2.3.2	User Task Matrix<br> 
+            2.3.3	Empathy Maps<brd> 
+            2.3.4	As-is Scenario Mapping  
+            </td>
     </tr>
     <tr>
       <td>TB2</td>
