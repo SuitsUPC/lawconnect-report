@@ -620,9 +620,112 @@ LawConnect es utilizada por los clientes cuando presentan problemas legales y bu
 
 ## 2.3. Needfinding
 ### 2.3.1. User Personas
+
+<p align="justify">
+Esta sección presenta las fichas de User Personas, que representan perfiles detallados de los principales segmentos de público objetivo identificados para nuestra aplicación web.
+Estas representaciones se han construido a partir del análisis de entrevistas con usuarios reales y de un estudio comparativo de la competencia, con el objetivo de reflejar de forma precisa las características, necesidades, motivaciones y comportamientos de nuestros usuarios.
+<br>Los perfiles resultantes permiten orientar decisiones de diseño y desarrollo, asegurando que la experiencia del producto esté alineada con las expectativas y problemáticas reales del público al que nos dirigimos.
+</p>
+
+#### SEGMENTO OBJETIVO 1
+
+<p align="justify">
+La siguiente imagen representa a un abogado recién egresado que utiliza herramientas tecnológicas para buscar oportunidades laborales.
+</p>
+
+**_Figura_**. User Persona de Lucía Martínez, representando el segmento de abogados egresados.
+
+
+
+*Nota*: El perfil descrito corresponde al segmento de abogados egresados
+
+#### SEGMENTO OBJETIVO 2
+
+<p align="justify">
+La siguiente imagen representa a un cliente con problemas legales que recurre a la tecnología para encontrar un abogado especializado en su caso.
+</p>
+
+**_Figura_**. User Persona de Jean Patrick, representando el segmento de abogados egresados.
+
+
+
+*Nota*: El perfil descrito corresponde al segmento de clientes que enfrentan situaciones legales
+
 ### 2.3.2. User Task Matrix
+
+<p align="justify">
+En esta sección se presenta la User Task Matrix, una herramienta clave enfocada en los segmentos de usuarios objetivo. Esta matriz permite identificar las tareas clave y los objetivos principales que los usuarios buscan cumplir dentro de la plataforma, facilitando la priorización de características y funcionalidades durante la elaboración del product backlog.
+</p>
+
+*La matriz incluye los siguientes elementos:*
+
+- **Tareas:** Acciones que los usuarios necesitan realizar dentro de la plataforma.
+
+- **Objetivos:** Metas que los usuarios buscan alcanzar al ejecutar cada tarea.
+
+- **Frecuencia:** Frecuencia con la que los usuarios realizan cada tarea, clasificada en cinco niveles:
+  
+    - Never (Nunca)
+    
+    - Rarely (Raramente)
+    
+    - Sometimes (A veces)
+    
+    - Often (A menudo)
+    
+    - Always (Siempre)
+
+- **Importancia:** Relevancia de cada tarea desde la perspectiva del usuario, clasificada como:
+  
+    - Low (Baja)
+
+    - Medium (Media)
+
+    - High (Alta)
+
+<p align="justify">
+Esta herramienta permite visualizar y analizar cuáles tareas son más frecuentes e importantes para los usuarios, lo que contribuye a una planificación más efectiva y centrada en sus necesidades reales.
+</p>
+
 ### 2.3.3. Empathy Maps
+
+<p align="justify">
+En esta sección se presenta el Empathy Mapping, una herramienta fundamental para crear perfiles detallados de los User Personas y desarrollar una comprensión profunda desde su perspectiva y experiencia. Los mapas de empatía ofrecen una visión integral de cómo los usuarios piensan, sienten, dicen y hacen, lo que facilita captar con mayor precisión sus emociones, preocupaciones y necesidades.
+
+Para la elaboración de estos diagramas, se utilizó la herramienta UXPressia, que proporciona funcionalidades avanzadas para crear mapas de empatía detallados y precisos. Los mapas incluyen las siguientes dimensiones:
+</p>
+
+- **Lo que el usuario piensa:** Reflexiones internas, creencias y actitudes.
+
+- **Lo que el usuario siente:** Emociones y sentimientos predominantes.
+
+- **Lo que el usuario dice:** Declaraciones y comentarios que el usuario expresa sobre su experiencia.
+
+- **Lo que el usuario hace:** Acciones y comportamientos observables.
+
+<p align="justify">
+Este enfoque contribuye a una comprensión más rica y matizada de los usuarios, facilitando el diseño de soluciones que realmente respondan a sus necesidades y expectativas.
+</p>
+
 ### 2.3.4. As-is Scenario Mapping
+
+<p align="justify">
+En esta sección se presentan los As-Is Scenario Mapping correspondientes a ambos segmentos objetivo. Estos mapas describen detalladamente los escenarios actuales en los que los usuarios interactúan con el software, permitiendo identificar y comprender los puntos de contacto y las experiencias a lo largo de todo el proceso.
+</p>
+
+El As-Is Scenario Mapping incluye los siguientes elementos:
+
+- **Puntos de Contacto:** Momentos clave en los que los usuarios interactúan con la plataforma, como la búsqueda de información, la selección de abogados y la gestión de consultas.
+
+- **Experiencias del Usuario:** Percepciones y vivencias de los usuarios en cada punto de contacto, incluyendo sus emociones y niveles de satisfacción.
+
+- **Problemas y Obstáculos:** Dificultades y fricciones que enfrentan los usuarios durante su interacción con el software actual.
+
+- **Oportunidades de Mejora:** Áreas identificadas donde se pueden implementar mejoras para optimizar la experiencia del usuario y resolver los problemas detectados.
+
+<p align="justify">
+Estos mapas facilitan la visualización del flujo actual de interacción, ayudando a identificar áreas críticas que requieren optimización para mejorar la experiencia general del usuario.
+</p>
 
 # Capítulo III: Requirements Specification
 ## 3.1. To-Be Scenario Mapping
