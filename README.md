@@ -37,6 +37,7 @@
 |---------|------------|------------------------------------|--------------------------------------------------|
 | 1.0.0   | 07/09/2025 | Johan Jorge Quiñones Tintaya       | Desarrollo parcial del **Capítulo I**            |
 | 1.1.1   | 07/09/2025 | Nelson Fabrizzio Pereira Vasquez   | Desarrollo parcial del **Capítulo II**          |
+| 1.1.2   | 09/09/2025 | Diego Rodrigo Pumahualcca Garcia   | Desarrollo parcial del **Capítulo II**          |
 
 ## Project Report Collaboration Insights  
 **TB1:**  
