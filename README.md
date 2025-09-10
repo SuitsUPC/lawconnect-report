@@ -607,6 +607,18 @@ LawConnect es utilizada por los clientes cuando presentan problemas legales y bu
 
 ## 1.3. Segmentos objetivo
 
+**Personas con problemas legales**
+
+<p align="justify">
+Personas mayores de 18 años que se encuentren en medio de problemas legales. Buscan una forma de obtener un abogado calificado que los pueda asesorar legalmente y ayudarlos a resolver sus casos de manera calmada, seria y asequible. En este caso, los problemas legales pueden ser de cualquier tipo: familiar, laboral, corporativo, entre otros. Buscan un abogado calificado para evitar errores durante el caso y tener una defensa sólida en los posibles juicios.
+</p>
+
+**Abogados egresados**
+
+<p align="justify">
+Abogados egresados en búsqueda de trabajo debido a la alta oferta laboral presente en el rubro de leyes. También, esperan cultivar más experiencia para poder tener una mejor línea de carrera en la abogacía. Esta experiencia es necesaria para fortalecer su perfil profesional, tener más oportunidades laborales en el futuro. Pero, esto va a ser acorde a la especialización que decidan; por ejemplo, si son abogados familiares, solamente se enfocarán en ello dentro de la aplicación.
+</p>
+
 # Capítulo II: Requirements & Analysis
 ## 2.1. Competidores
 <p align="justify">
