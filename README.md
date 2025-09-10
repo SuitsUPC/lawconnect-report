@@ -609,8 +609,182 @@ LawConnect es utilizada por los clientes cuando presentan problemas legales y bu
 
 # Capítulo II: Requirements & Analysis
 ## 2.1. Competidores
+<p align="justify">
+En esta sección explicaremos quienes son nuestros principales competidores y descripción principal, con esto podremos
+manejar una buena estrategia y planeación de nuestro producto, ya que es importante saber a quienes nos enfretaremos en el rubro.
+</p>
+
+<table border="1">
+    <tr>
+        <th>EMPRESA</th>
+        <th>DESCRIPCIÓN</th>
+        <th>IMAGEN</th>
+    </tr>
+    <tr>
+        <td>Lawyered</td>
+        <td>
+            Una plataforma que permite el acceso a ayuda legal en India. Permite a los usuarios conectarse con distintos abogados verificados, a un precio razonable. Está disponible 24/7, recomendaciones legales y manejo de documentación.
+        </td>
+        <td>
+            <img src="https://i.ibb.co/6p4T5Fc/lawyered-logo.png" alt="Lawyered Logo"/>
+        </td>
+    </tr>
+    <tr>
+        <td>Linkea tu Abogado</td>
+        <td>
+            Es una plataforma legal donde los usuarios pueden encontrar distintos tipos de abogados (familiar, laboral, corporativo). Brinda a los usuarios una experiencia transparente debido a que muestra las credenciales de cada abogado y los comentarios de los clientes respecto a estos.
+        </td>
+        <td>
+            <img src="https://i.ibb.co/6cv6PMYG/linkea-tu-abogado-logo.png" alt="Linkea tu Abogado Logo"/>
+        </td>
+    </tr>
+    <tr>
+        <td>Abogado Agil</td>
+        <td>
+            Es una aplicación móvil, diseñada para abogados que ayuden a manejar los casos de sus clientes y documentaciones, para mantener un orden. Permite organizar llamadas, grabar notas de voz, tener recordatorios de las presentaciones, monitorea los pagos. Mejora la forma de documentar los archivos del casos, y organización de los calendarios con Google Calendar.
+        </td>
+        <td>
+            <img src="https://i.ibb.co/2Yt3hZrC/abogado-agil-logo.png" alt="Abogado Agil Logo"/>
+        </td>
+    </tr>
+</table>
+
 ### 2.1.1. Análisis competitivo
+
+<p align="justify">
+En esta sección analizaremos nuestros competidores de manera profunda. Investigaremos sobre su <b>FODA</b>, perfil de la empresa y la solución. Así, podemos refinar nuestras características y saber que es lo que tenemos en nuestro producto que capte más la atención de nuestro mercado objetivo.
+</p>
+
+<table>
+<colgroup>
+<col style="width: 10%" />
+<col style="width: 15%" />
+<col style="width: 17%" />
+<col style="width: 17%" />
+<col style="width: 18%" />
+<col style="width: 20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th rowspan="2">¿Por qué llevar a cabo este análisis?</th>
+<th colspan="5">Se hace este analisis para conocer las debilidades y fortalezas y compararlas con el producto solución propuesto</th>
+</tr>
+<tr class="odd">
+<th colspan="5">Permite reconocer las ventajas competitivas y áreas de mejora de "LawConnect" frente a competidores clave, facilitando el diseño de estrategias eficaces para destacarse en el sector legal.</th>
+</tr>
+<tr class="header">
+<th></th>
+<th></th>
+<th>LawConnect</th>
+<th>Lawyered
+<img src="https://i.ibb.co/6p4T5Fc/lawyered-logo.png" alt="Lawyered Logo"/></th>
+<th>Linkea tu Abogado
+ <img src="https://i.ibb.co/6cv6PMYG/linkea-tu-abogado-logo.png" alt="Linkea tu Abogado Logo"/></th>
+<th>Abogado Agil
+ <img src="https://i.ibb.co/2Yt3hZrC/abogado-agil-logo.png" alt="Abogado Agil Logo"/></th>
+</tr>
+<tr class="odd">
+<th rowspan="2">Perfil</th>
+<th>Overview</th>
+<th>Aplicación móvil que conecta a clientes con abogados calificados de forma rápida y segura.</th>
+<th>Una aplicación web diseñada para simplificar la búsqueda de abogados, ofreciendo una solución directa y eficiente para los usuario.</th>
+<th>Un sitio web que facilita a los abogados el registro y promoción de sus servicios, permitiendo además recibir contactos de potenciales clientes.</th>
+<th>Una aplicación móvil orientada a abogados para el manejo y seguimiento eficaz de sus casos y clientes.</th>
+</tr>
+<tr class="header">
+<th>Ventaja competitiva</th>
+<th>Ofrece un acceso rápido, seguro y personalizado a abogados calificados, garantizando transparencia y ahorro de tiempo en la búsqueda.</th>
+<th>Facilita una amplia red de abogados especializados para una búsqueda rápida y precisa según las necesidades legales del usuario.</th>
+<th>Ofrece una plataforma intuitiva que conecta a los usuarios directamente con abogados locales, fomentando una comunicación eficiente.</th>
+<th>Destaca por su sistema de gestión de casos en tiempo real, permitiendo a los abogados optimizar su productividad y servicio al cliente.</th>
+</tr>
+<tr class="odd">
+<th rowspan="2">Perfil de Marketing</th>
+<th>Mercado Objetivo</th>
+<th>Personas que requieren asesoría o representación legal, así como por abogados recién egresados.</th>
+<th>Individuos y pymes buscando asesoría especializada.</th>
+<th>Personas y pequeños negocios que prefieren abogados locales.</th>
+<th>Abogados y bufetes enfocados en eficiencia.</th>
+</tr>
+<tr class="header">
+<th>Estrategias de marketing</th>
+<th>SEO, presencia digital en redes sociales, se impulsará la colaboración con universidades y colegios de abogados.</th>
+<th>SEO, publicidad en redes sociales, colaboraciones profesionales.	</th>
+<th>Testimonios, marketing local en redes sociales, eventos comunitarios.</th>
+<th>Demostraciones de producto, publicidad PPC, alianzas con colegios de abogados.</th>
+</tr>
+<tr class="odd">
+<th rowspan="3">Perfil de Producto</th>
+<th>Productos &amp; Servicios</th>
+<th>Aplicación móvil que conecta a clientes con abogados calificados de distintas especialidades legales.	</th>
+<th>Plataforma web con amplia selección de abogados especializados.</th>
+<th>Conexión directa con abogados locales mediante plataforma web.</th>
+<th>Aplicación móvil para la gestión eficiente de casos y seguimiento de clientes.</th>
+</tr>
+<tr class="header">
+<th>Precios y Costos</th>
+<th>Planes de suscripción y pagos por servicios legales</th>
+<th>Modelo basado en suscripción o tarifas por servicio.</th>
+<th>Posible tarifa por conexión o membresía para usuarios.</th>
+<th>Suscripción para abogados con opción de prueba gratuita.</th>
+</tr>
+<tr class="odd">
+<th><p>Canales de distribución</p>
+<p>(Web y/o Móvil)</p></th>
+<th>Aplicación móvil</th>
+<th>Aplicación Web</th>
+<th>Aplicación móvil</th>
+<th>Aplicación Web</th>
+</tr>
+<tr class="header">
+<th rowspan="5">Análisis SWOT</th>
+<th colspan="5">Realice esto para su startup y sus competidores. Sus
+fortalezas deberían apoyar sus oportunidades y contribuir a lo que
+ustedes definen como su posible ventaja competitiva.</th>
+</tr>
+<tr class="odd">
+<th>Fortalezas</th>
+<th>Plataforma accesible y fácil de usar y la generación de oportunidades laborales.</th>
+<th>Red logística consolidada, relaciones sólidas con clientes.</th>
+<th>Conexión directa y personal con abogados locales; fácil acceso.</th>
+<th>Optimización de la gestión de casos para abogados; aplicación móvil dedicada.</th>
+</tr>
+<tr class="header">
+<th>Debilidades</th>
+<th>Falta de reconocimiento de marca por ser una startup nueva.</th>
+<th>Puede tener altas tarifas.</th>
+<th>Menor alcance en áreas menos pobladas; dependencia de la web.</th>
+<th>Enfoque limitado a abogados, no a clientes directamente; puede requerir curva de aprendizaje.</th>
+</tr>
+<tr class="odd">
+<th>Oportunidades</th>
+<th>Creciente digitalización de los servicios legales	y alta demanda de asesoría accesible y confiable.</th>
+<th>Expandir a aplicación móvil; añadir más áreas de especialización.	</th>
+<th>Expandirse a áreas rurales; desarrollar una app móvil	</th>
+<th>Integración con otras plataformas; expansión a web.</th>
+</tr>
+<tr class="header">
+<th>Amenazas</th>
+<th>Resistencia al cambio tecnológico en el sector legal y desconfianza inicial de los usuarios.</th>
+<th>Nuevos competidores; cambios en la regulación legal.	</th>
+<th>Competencia de plataformas más grandes; variabilidad en la calidad del servicio.	</th>
+<th>Soluciones de gestión de casos integradas por competidores; resistencia al cambio por parte de abogados tradicionales.</th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+
 ### 2.1.2. Estrategias y tácticas frente a competidores
+
+| Estrategia/ Táctica        | Medidas a tomar                                                     |
+|----------------------------------------------|---------------------------------------------------------|
+| Diferenciación de producto | \- Integrar filtros avanzados de búsqueda                                                  |
+|                            | \- Aplicación móvil optimizada, con interfaz intuitiva                                    |
+| Generación de confianza    | \- Perfiles verificados y valoraciones transparentes de clientes                    |
+|                            | \- Garantía de primer contacto                                                  |
+| Estrategias de marketing   | \- Aliados institucionales: fortalecer vínculos con universidades y colegios de abogados                                                  |
+|                            | \- Marketing educativo: diferenciarse en redes sociales creando contenido legal simplificado                                              |
 
 ## 2.2. Entrevistas
 ### 2.2.1. Diseño de entrevistas
